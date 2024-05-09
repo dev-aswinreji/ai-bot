@@ -2,7 +2,7 @@
 npm install to build the Project
 
 # Run Project 
-npm run test 
+node bot.js 
 
 It is a predefined ai-bot you can make changes according to your will
 You can train the bot 
